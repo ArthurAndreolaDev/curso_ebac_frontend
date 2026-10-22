@@ -1,0 +1,24 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.container {
+    max-width: 648px;
+    width: 100%;
+    margin: 80px auto;
+}
+
+.container input {
+    display: block;
+    margin-bottom: 8px;
+    width: 300px;
+    height: 30px;
+}
+
+.container input, button{
+    width: 300px;
+    height: 30px;
+}
+
